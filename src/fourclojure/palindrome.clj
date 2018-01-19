@@ -1,13 +1,13 @@
 (ns fourclojure.palindrome
-  (:require [clojure.test :as test]))
+  (:require [clojure.test :as ctest]))
 
-(defn palindrome?
-  [s]
-  (= (seq s) (reverse s)))
+(ctest/with-test
+  (defn palindrome?
+    [s]
+    (= (seq s) (reverse s)))
+  (ctest/is (true? (palindrome? "racecar"))))
 
-(defn run-test []
-  (test/is (true? (palindrome? "racecar")))
-  (test/is ))
+
 
 
 
