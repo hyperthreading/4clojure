@@ -1,4 +1,4 @@
-(ns fourclojure.anagram-finder
+(ns hyperthreading.fourclojure.anagram-finder
   (:require [clojure.test :refer [with-test is run-tests]]))
 
 (with-test

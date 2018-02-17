@@ -1,4 +1,4 @@
-(ns fourclojure.flipping-out
+(ns hyperthreading.fourclojure.flipping-out
   (:require [clojure.test :refer [with-test is run-tests]]))
 
 (with-test

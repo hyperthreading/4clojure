@@ -1,4 +1,4 @@
-(ns fourclojure.palindrome
+(ns hyperthreading.fourclojure.palindrome
   (:require [clojure.test :as ctest]))
 
 (ctest/with-test

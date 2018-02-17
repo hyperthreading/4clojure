@@ -1,4 +1,4 @@
-(ns fourclojure.get-the-caps
+(ns hyperthreading.fourclojure.get-the-caps
   (:require [clojure.test :as ctest]))
 
 (ctest/with-test

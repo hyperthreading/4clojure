@@ -1,4 +1,4 @@
-(ns fourclojure.pairwise-disjoint
+(ns hyperthreading.fourclojure.pairwise-disjoint
   (:require [clojure.test :refer [with-test is run-tests]]))
 
 (with-test

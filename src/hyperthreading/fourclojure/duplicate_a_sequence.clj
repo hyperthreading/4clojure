@@ -1,4 +1,4 @@
-(ns fourclojure.duplicate-a-sequence
+(ns hyperthreading.fourclojure.duplicate-a-sequence
   (:require [clojure.test :refer [with-test is run-tests]]))
 
 (with-test

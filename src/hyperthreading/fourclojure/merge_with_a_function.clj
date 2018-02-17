@@ -1,4 +1,4 @@
-(ns fourclojure.merge-with-a-function
+(ns hyperthreading.fourclojure.merge-with-a-function
   (:require [clojure.test :refer [run-tests with-test is]]))
 
 

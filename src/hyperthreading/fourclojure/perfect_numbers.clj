@@ -1,4 +1,4 @@
-(ns fourclojure.perfect-numbers
+(ns hyperthreading.fourclojure.perfect-numbers
   (:require [clojure.test :refer [with-test run-tests is]]))
 
 (with-test

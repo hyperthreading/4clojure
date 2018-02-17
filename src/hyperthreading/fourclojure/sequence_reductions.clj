@@ -1,4 +1,4 @@
-(ns fourclojure.sequence-reductions
+(ns hyperthreading.fourclojure.sequence-reductions
   (:require [clojure.test :refer [with-test run-tests is]]))
 
 (with-test

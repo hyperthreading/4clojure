@@ -1,4 +1,4 @@
-(ns fourclojure.juxtaposition
+(ns hyperthreading.fourclojure.juxtaposition
   (:require [clojure.test :refer [run-tests with-test is]]))
 
 

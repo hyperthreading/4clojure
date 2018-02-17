@@ -1,7 +1,7 @@
 ;; This buffer is for Clojure experiments and evaluation.
 ;; Press C-j to evaluate the last expression.
 
-(ns fourclojure.fibonacci)
+(ns hyperthreading.fourclojure.fibonacci)
 
 (defn p1 [ans] (= (ans 3) '(1 1 2)))
 
